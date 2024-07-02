@@ -27090,9 +27090,9 @@ var _stylesCss = require("./styles.css");
     name: "Vinoothna Ande",
     title: "Web Developer",
     email: "vinoothnaande20@gmail.com",
-    gitHub: "https://github.com/vinoothna20",
+    gitHub: "vinoothna20",
     instagram: "microsoft",
-    linkedIn: "https://www.linkedin.com/in/vinoothnaande/",
+    linkedIn: "vinoothnaande/",
     medium: "",
     twitter: "",
     youTube: ""
