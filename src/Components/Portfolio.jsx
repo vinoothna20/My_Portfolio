@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/laptop-and-books.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Figma Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A fully responsive figma website, built using HTML, CSS, Bootstrap and JavaScript. It contains blogs and a signup page which overlays on the main page.",
+    url: "https://figma-website-delta.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Currency Converter",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This helps in coverting the curency value of one country to the other. I have bulit this using HTML, CSS and JavaScript.",
+    url: "https://vinoothna20.github.io/Currency_Convertor/",
   },
   {
-    title: "My Resume Site",
+    title: "Split Payment",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "In this user can split his/her bill with friends esaily. The User can also create groups to split among particular persons. This is done using HTML, CSS and JavaScript for the functionality. This is also fully responsive and user-friendly",
+    url: "https://vinoothna20.github.io/Split_Payment/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Add to Cart",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "In the website user can add the products which he/she want to buy. They can also remove them whenever needed. For products I have used API Data. To make this I have used HTML, CSS and JavaScript.",
+    url: "https://vinoothna20.github.io/Add_To_Cart/",
   },
 ];
 
